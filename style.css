@@ -1,0 +1,16 @@
+body{
+    background-color: powderblue;
+}
+.form-control{
+    width: 60%;
+    margin-left: 20%;
+    border-radius: 15px 15px;
+}
+.frm{
+    background-color:#748de8;
+    padding: 3%;
+    border-radius: 15px 15px;
+}
+.tb{
+    color:black;
+}
